@@ -1,34 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@pratyush-in
-pipelineascodecourse /
-source_code
-
-4
-21
-
-    180
-
-Code
-Issues 1
-Pull requests 1
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-source_code/bonus-lectures-jenkins-jobs/withMaven_simple_java_project/withMaven_simple_java_project.txt
-pipelineascodecourse example code
-Latest commit d92ddb9 on Nov 17, 2018
-History
-0 contributors
-138 lines (111 sloc) 2.98 KB
 (withMaven - 1st example)
 -------------------------
 
@@ -167,19 +136,3 @@ node{
     } 
   }
 }
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
